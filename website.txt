@@ -1,0 +1,2 @@
+This its only a redirect page:
+https://raw.githubusercontent.com/sagas29/utils-random/main/ses-sns-event.json
